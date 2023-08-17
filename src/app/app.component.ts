@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'github-action-course';
+  OktaKey= '0oa2egr6qbklHeFTX1d7'
 }
